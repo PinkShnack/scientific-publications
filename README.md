@@ -1,5 +1,4 @@
 # For code used in our Scientific Publications
-@PinkShnack
 
 To go to a specific publication, check the folders above, they are named with the article title and DOI.
 
